@@ -1,4 +1,8 @@
 # Emoji-Generator
+
+### Purpose
+The purpose of this project is for predicting emojis that best suits user-inputted text. This approach uses a multi-task learning framework and leverages pre-trained transformer models to help make these decisions with sentiment and emotion classifications. 
+
 ### To Run GUI
 ``` clone repo ```
 
